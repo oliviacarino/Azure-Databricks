@@ -4,6 +4,6 @@ The goal of the model is to use CV and a 3-layer (this may increase or decrese) 
 The training and testing data come from the [ASL Alphabet](https://www.kaggle.com/datasets/grassknoted/asl-alphabet) dataset on Kaggle.
 
 ## Goal Checklist
-[ ] Successfully run the model locally
-[ ] Deploy model on DataBricks
-[ ] Convert the model to a TensorFlow Lite model
+- [ ] Successfully run the model locally
+- [ ] Deploy model on DataBricks
+- [ ] Convert the model to a TensorFlow Lite model
