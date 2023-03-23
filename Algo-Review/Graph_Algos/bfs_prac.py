@@ -10,10 +10,8 @@ class Graph:
         self.graph[u].append(v)
 
     def bfs(self, start):
-        visited = [False] * len(self.graph)
         queue = deque()
-
-        visited[start] = True
+        visited = [False] * len(self.graph)
         queue.append(start)
 
         while queue:
@@ -24,6 +22,8 @@ class Graph:
                 if visited[i] == False:
                     queue.append(i)
                     visited[i] = True
+
+
 
 # Driver code
 g = Graph()
