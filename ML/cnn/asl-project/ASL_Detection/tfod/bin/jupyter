@@ -1,4 +1,4 @@
-#!/Users/olivia/Dropbox/Coding/Python/ML/cnn/asl-project/ASL_Detection/tfod/bin/python
+#!/Users/olivia/Dropbox/Coding/Python/ML/cnn/asl-project/ASL_Detection/tfod/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
